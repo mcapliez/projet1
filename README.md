@@ -1,3 +1,2 @@
 # projet1
-
-# salut
+# application MVC
